@@ -1,3 +1,3 @@
 # SnapChatLikeScroll
 
-This project is meant to be an example of a simple way to set up 3 screen size views horizontally next to each other. The user can then scroll between them and the screen will not allow two views to be in view when the user removes their finger from the screen.
+This project is an example of a simple way to set up 3 screen size views next to each other, lined up horizontally. The user can then scroll between them by swiping but whenever the user removes their finger, the app will slide the most in sigh view over so it fills up the whole screen, just like SnapChat. 
